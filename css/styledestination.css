@@ -1,0 +1,63 @@
+body{background-image: url("background-destination-desktop.jpg"); background-size: 100%; background-color: #0b0d17; height: 900px; display: block;}
+h1{color:#ffffff; font-size: 150px; margin-top: 20px; margin-bottom: 20px; font-family: 'Bellefair', serif; font-weight: lighter;}
+H2 {color:#ffffff; font-size: 100px; margin-top: 20px; margin-bottom: 20px; font-family: 'Bellefair', serif; font-weight:lighter;}
+H3 {color:#ffffff; font-size: 53px; margin-top: 20px; margin-bottom: 20px; font-family: 'Bellefair', serif;font-weight: normal;}
+h4 {color:#ffffff; font-size: 150px; margin-top: 20px; margin-bottom: 20px; font-family: 'Bellefair', serif;}
+span{color: #ffffff;  font-weight: 900; letter-spacing: normal;}
+
+h5{color:#ffffff; font-size: 28px; letter-spacing: 4.75px; font-family: 'Barlow Condensed', sans-serif; margin-bottom: 0px; font-weight: lighter;}
+p{color:#ffffff; font-size: 16px; letter-spacing: 2.7px;font-family: 'Barlow Condensed', sans-serif; line-height: 2; font-weight: lighter;}
+h6{color:black; font-size: 32px; letter-spacing: 2.7px;font-family: 'Bellefair', serif; font-weight: normal;}
+td{padding: 0;}
+
+
+.numb{ color: grey; font-weight: 900;}
+.pick{ display: block; position: absolute; top: 160px; left: 160px;}
+
+/***********************TEXT*****************************/
+.subheading1   {color:#ffffff; font-size: 28px;  font-family: 'Bellefair', serif; margin:0;}
+.subheading2   {color:#ffffff; font-size: 14x; letter-spacing: 2.35px; font-family: 'Barlow Condensed', sans-serif; margin: 0;}
+
+
+/**********************IMAGINES*************************/
+.moon {display: block; position: absolute; left: 180px; top: 320px;}
+.mars {display: block; position: absolute; left: 180px; top: 320px;}
+.titan{display: block; position: absolute; left: 180px; top: 320px;}
+.europa{display: block; position: absolute; left: 180px; top: 320px;}
+
+
+
+/*********************CLASSES****************************/
+
+.top{ display: block; position: absolute; right:0;  margin-top: 30px; background: rgba(150,150,150,0.1); backdrop-filter: blur(20px); }
+.middle{display: block; position: absolute; top: 250px; right: 100px;float:left; width: 40%; text-align: left;}
+.explore{display:block; position: absolute; right: 160px; top: 500px; width: 300px; text-align: center; margin:0; border-radius: 100%; width: 275px; height: 275px; background-color: #ffffff; border-style: solid;  border-color: transparent ; transition: 0.5s; }
+.explore:hover{box-shadow: 0 0 0 80px rgba(150,150,150,0.1);}
+.table0{display: block; width: 140px;height: 90px;background-color: inherit; text-align:center; border-top: none; border-left: none; border-right: none; transition: 0.5s; border-color: transparent;}
+.table1{display: block; width: 140px;height: 90px;background-color: inherit; text-align:center; border-top: none; border-left: none; border-right: none; transition: 0.5s; border-color: #ffffff;}
+.table2{display: block; width: 140px;height: 90px;background-color: inherit; text-align:center; border-top: none; border-left: none; border-right: none; transition: 0.5s; border-color: transparent;}
+.table3{display: block; width: 140px;height: 90px;background-color: inherit; text-align:center; border-top: none; border-left: none; border-right: none; transition: 0.5s; border-color: transparent;}
+.table0:hover{border-color:#d0d6f9; }
+.table1:hover{border-color:#d0d6f9; }
+.table2:hover{border-color:#d0d6f9; }
+.table3:hover{border-color:#d0d6f9; }
+.table:active{border-color: white;}
+.toptable{margin-left: 90px; margin-right: 200px; margin-top: 0px; margin-bottom: 0px; }
+.planet0{display: block; width: 60px;height: 40px;background-color: inherit; text-align:center; border-top: none; border-left: none; border-right: none; transition: 0.5s; border-color: #ffffff;}
+.planet1{display: block; width: 60px;height: 40px;background-color: inherit; text-align:center; border-top: none; border-left: none; border-right: none; transition: 0.5s; border-color: transparent;}
+.planet2{display: block; width: 60px;height: 40px;background-color: inherit; text-align:center; border-top: none; border-left: none; border-right: none; transition: 0.5s; border-color: transparent;}
+.planet3{display: block; width: 60px;height: 40px;background-color: inherit; text-align:center; border-top: none; border-left: none; border-right: none; transition: 0.5s; border-color: transparent;}
+.planet0:hover{border-color:#d0d6f9; }
+.planet1:hover{border-color:#d0d6f9; }
+.planet2:hover{border-color:#d0d6f9; }
+.planet3:hover{border-color:#d0d6f9; }
+.table:active{border-color: white;}
+.middletable {margin-left: 0px; margin-right: 200px; margin-top: 0px; margin-bottom: 0px; }
+.logo{ display: block; position: absolute; top: 60px; left: 50px; }
+.ptable{color:#ffffff; font-size: 16px; letter-spacing: 2.7px;font-family: 'Barlow Condensed', sans-serif; line-height: 2; font-weight: lighter; margin:0px;}
+.hr1 { z-index: 1; color:rgba(150,150,150,0.1); display: block; position: absolute; top: 75px; left: 150px; width: 600px; border-top: none; border-left: none; border-right: none; opacity: 0.25;}
+.hr2 { z-index: 1; color:rgba(150,150,150,0.1); display: block; position: absolute; top: 370px; right: 180px; width: 450px; border-top: none; border-left: none; border-right: none; opacity: 0.25;}
+.titantd{padding-left: 10px;}
+.tablewords{display: block;position: absolute; top: 400px;}
+.time{padding-left: 50px; }
+.days{padding-left: 50px}
